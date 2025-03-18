@@ -17,7 +17,7 @@ La solución fue sencilla solo fue necesario utilizar, HTML, CSS y TailwindCSS
 ![](./images/Solution.png)
 
 ### Links
-- URL del sitio: [QR COMPONENT](https://your-live-site-url.com)
+- URL del sitio: [QR COMPONENT](https://qrcodemelvin.netlify.app/)
 
 ### Built with
 
